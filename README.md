@@ -7,7 +7,8 @@ El objetivo de este trabajo será el análisis de un set de datos obtenido a par
 
 __CONTENIDO__
 
-El repositorio contiene 3 archivos. El primero de ellos, la carpeta DATA, es el archivo que he empleado para llevar a cabo el analisis de datos. El archivo original ha sido fragmentado en 5 .csv para poder subirlos.
-El segundo archivo es el código en formato R Markdown (TFM_.rmd). En este archivo está incluido el pipeline completo de instalacion de librerias necesarias, carga de los datos, tratamiento de los mismos, creación de modelos y prediccion del tipo de cancer. Tras abrirlo, correr todo el codigo para obtener los resultados. Tambien se incluye el código en formato pdf, comentado paso a paso. Por último, el archivo REPORT es un documento PDF donde se realiza un report del trabajo con una introduccion, la metodologia de trabajo y un comentario sobre los resultados finales.
+El archivo de datos es demasiado grande para subirlo, por lo que es necesario descargarlo de la pagina original: https://www.kaggle.com/brunogrisci/brain-cancer-gene-expression-cumida
+El repositorio contiene 2 archivos.
+El primer archivo es el código en formato R Markdown (TFM_.rmd). En este archivo está incluido el pipeline completo de instalacion de librerias necesarias, carga de los datos, tratamiento de los mismos, creación de modelos y prediccion del tipo de cancer. Tras abrirlo, correr todo el codigo para obtener los resultados. Tambien se incluye el código en formato pdf, comentado paso a paso. Por último, el archivo REPORT es un documento PDF donde se realiza un report del trabajo con una introduccion, la metodologia de trabajo y un comentario sobre los resultados finales.
 
 Se ha empleado el lenguaje de programación R sobre el entorno de RStudio para el desarrollo de este trabajo
